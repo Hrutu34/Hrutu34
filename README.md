@@ -23,11 +23,15 @@
     <h4>Badges Earned<h4>
     <p>
       <a href="https://www.credly.com/badges/737803ab-6d8a-489c-ab2b-1c35a202f5e4/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="130" height="130" alt="Badge 1 Title" title="Click to verify on Credly" />
+        <img src="https://images.credly.com/size/110x110/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.credly.com/badges/c4970de8-25ef-450b-a15d-094f2b2923f1/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/eef4f5db-581a-47f2-8cf1-6c65a37e2296/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="130" height="130" alt="Badge 2 Title" title="Click to verify on Credly" />
+        <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="90" height="90" alt="Badge 2 Title" title="Click to verify on Credly" />
       </a>
     </p>
   </div>
