@@ -93,7 +93,7 @@
   | Certificate / Specialization Name | Provider / Partner | Verification Link |
   | :--- | :---: | :---: |
   | **An Introduction to Programming Internet of Things(IoT)** | UCI / Coursera | [Verify Credential ↗](https://coursera.org/share/e181e675318a65eab4021bfba275eeb5) |
-  | **AutoDesk CAD/CAM/CAE for Mechanical Engineering** | AutoDesk / Coursera | [Verify Credential ↗](https://coursera.org/share/e067e9774bfc8bc520ed8d99742d555a) |
+  | **AutoDesk CAD/CAM/CAE for Mechanical Engineering** | AutoDesk / Coursera | [Verify Credential ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/UFDHA79RYLX5) |
   | **AI Fundamentals** | Google / Coursera | [Verify Credential ↗](https://coursera.org/share/9e55c40ed72906e78a823de6fa27f925) |
   | **AI for Everyone** | DeepLearning.AI / Coursera | [Verify Credential ↗](https://coursera.org/share/a479fe6baf442b82a7c818acf44db737) |
   | **Interpersonal Communication for Engineering Leaders** | Rice University / Coursera | [Verify Credential ↗](https://coursera.org/share/715e802df501c08b01c6e9fcf1edd846) |
