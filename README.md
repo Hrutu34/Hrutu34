@@ -34,6 +34,10 @@
         <img src="https://images.credly.com/size/110x110/images/3460226a-69cf-47d2-91cf-7ce24fe0da59/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.credly.com/badges/e3c94b29-05df-495a-9816-1d8b7d6e9d01/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/3d5a1839-d1dc-4821-b58e-3a274b610f37/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/eef4f5db-581a-47f2-8cf1-6c65a37e2296/public_url" target="_blank">
         <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="90" height="90" alt="Badge 2 Title" title="Click to verify on Credly" />
       </a>
