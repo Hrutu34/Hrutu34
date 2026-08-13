@@ -35,11 +35,11 @@
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/e3c94b29-05df-495a-9816-1d8b7d6e9d01/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/3d5a1839-d1dc-4821-b58e-3a274b610f37/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
+        <img src="https://images.credly.com/size/340x340/images/18687a40-458e-44fc-b539-db34d92de0d4/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/d36d09bb-c86c-418a-8ce2-58883e20cdb9/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/6ffa4f1e-cf24-4d4b-af84-86105720f6fe/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
+        <img src="https://images.credly.com/size/340x340/images/14f51379-d8b0-49ea-b1d0-f97039ff27b8/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
        &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/e8b8a7cd-b719-452b-b09b-e569288f3c1d/public_url" target="_blank">
         <img src="https://images.credly.com/size/110x110/images/34ac978e-748e-4e7e-9227-34e0746716c8/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
