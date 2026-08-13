@@ -31,7 +31,7 @@
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
        <a href="https://www.credly.com/badges/bc67fa73-8cf0-4826-9231-ec382147c01b/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/3460226a-69cf-47d2-91cf-7ce24fe0da59/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
+        <img src="https://images.credly.com/size/340x340/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob" width="90" height="90" alt="Badge 1 Title" title="Click to verify on Credly" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.credly.com/badges/e3c94b29-05df-495a-9816-1d8b7d6e9d01/public_url" target="_blank">
