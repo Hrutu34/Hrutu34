@@ -46,13 +46,41 @@
   <tbody>
     <!-- Module Milestone Ribbons -->
     <tr align="center">
-      <td><img src="https://img.shields.io/badge/COURSE-01-4285F4?style=flat-square" alt="C1" /></td>
-      <td><img src="https://img.shields.io/badge/COUSRE-02-EA4335?style=flat-square" alt="C2" /></td>
-      <td><img src="https://img.shields.io/badge/COURSE-03-FBBC05?style=flat-square" alt="C3" /></td>
-      <td><img src="https://img.shields.io/badge/COURSE-04-34A853?style=flat-square" alt="C4" /></td>
-      <td><img src="https://img.shields.io/badge/COURSE-05-8A2BE2?style=flat-square" alt="C5" /></td>
-      <td><img src="https://img.shields.io/badge/COURSE-06-00B4D8?style=flat-square" alt="C6" /></td>
-      <td><img src="https://img.shields.io/badge/COURSE-07-FF6B00?style=flat-square" alt="C7" /></td>
+      <td>
+        <a href="https://coursera.org/share/9e55c40ed72906e78a823de6fa27f925">
+          <img src="https://img.shields.io/badge/COURSE-01-4285F4?style=flat-square" alt="C1" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/f62a2d7fce438209845c8fbce31b6b0d">
+          <img src="https://img.shields.io/badge/COUSRE-02-EA4335?style=flat-square" alt="C2" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/c5d41f18ec4b1aff313f22b954782a31">
+          <img src="https://img.shields.io/badge/COURSE-03-FBBC05?style=flat-square" alt="C3" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/ad36727cd547fc04aea0c93b7861ce01">
+          <img src="https://img.shields.io/badge/COURSE-04-34A853?style=flat-square" alt="C4" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/6d678275fa69218b8c170ff83f0ba4fe">
+          <img src="https://img.shields.io/badge/COURSE-05-8A2BE2?style=flat-square" alt="C5" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/1d350319f763197784dde77733a50e19">
+          <img src="https://img.shields.io/badge/COURSE-06-00B4D8?style=flat-square" alt="C6" />
+        </a>
+      </td>
+      <td>
+        <a href="https://coursera.org/share/f64b7febb3cb7022b014bc92adf15a97">
+          <img src="https://img.shields.io/badge/COURSE-07-FF6B00?style=flat-square" alt="C7" />
+        </a>
+      </td>
     </tr>
     <!-- Credly Badge Medals -->
     <tr align="center">
@@ -207,7 +235,6 @@
   | :--- | :--- | :---: |
   | **An Introduction to Programming Internet of Things (IoT)** | UC Irvine | [Verify ↗](https://coursera.org/share/e181e675318a65eab4021bfba275eeb5) |
   | **AutoDesk CAD/CAM/CAE for Mechanical Engineering** | Autodesk | [Verify ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/UFDHA79RYLX5) |
-  | **AI Fundamentals** | Google | [Verify ↗](https://coursera.org/share/9e55c40ed72906e78a823de6fa27f925) |
   | **AI for Everyone** | DeepLearning.AI | [Verify ↗](https://coursera.org/share/a479fe6baf442b82a7c818acf44db737) |
   | **Interpersonal Communication for Engineering Leaders** | Rice University | [Verify ↗](https://coursera.org/share/715e802df501c08b01c6e9fcf1edd846) |
 
@@ -215,15 +242,19 @@
 
 ---
 
-### Activity & Telemetry
+### 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrutu34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrutu34&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hrutu34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" width="380" alt="GitHub Stats" />
+  <!-- Top Languages Compact -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hrutu34&layout=compact&theme=tokyonight&hide_border=true" height="165" width="380" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrutu34&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrutu34&theme=black-ice" alt="GitHub Streak" />
+  </p>
 </div>
