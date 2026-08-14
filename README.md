@@ -1,8 +1,12 @@
 <div align="center">
 
-  <!-- Dynamic Typing Cyber Header -->
+  <!-- Dual-Theme Adaptive Typing SVG Banner -->
   <a href="https://github.com/Hrutu34">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+FULL+STACK+%2F+GAME+DEV+%2F+IOT" alt="Typing Banner" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+FULL+STACK+%2F+GAME+DEV+%2F+IOT" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+FULL+STACK+%2F+GAME+DEV+%2F+IOT" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+FULL+STACK+%2F+GAME+DEV+%2F+IOT" alt="Typing Banner" />
+    </picture>
   </a>
 
   <p align="center">
@@ -28,7 +32,14 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header&text=BADGES%20OF%20HONOUR&fontSize=35&fontAlign=50" width="100%" />
+<!-- High-Contrast Badges of Honour Banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" width="100%" alt="Badges of Honour Banner" />
+  </picture>
+</div>
 
 <div align="center">
 
