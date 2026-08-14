@@ -34,11 +34,7 @@
 
 <!-- High-Contrast Badges of Honour Banner -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=110&section=header&text=BADGES%20OF%20HONOUR&fontSize=32&fontAlign=50&fontColor=ffffff" width="100%" alt="Badges of Honour Banner" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header&text=BADGES%20OF%20HONOUR&fontSize=35&fontAlign=50&fontColor=059669" width="100%" />
 </div>
 
 <div align="center">
