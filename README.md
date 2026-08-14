@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Cyber Header -->
   <a href="https://github.com/Hrutu34">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+GAME+DEV+%2F+INDUSTRIAL+IOT" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_SYSTEM.INIT()+....;HI%2C+I'M+HRUTU;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;AI+%2F+FULL+STACK+%2F+GAME+DEV+%2F+IOT" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-### Badges of Honour
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header&text=BADGES%20OF%20HONOUR&fontSize=35&fontAlign=50" width="100%" />
 
 <div align="center">
 
@@ -130,8 +130,8 @@
     </tr>
   </tbody>
 </table>
-
 </div>
+
 ---
 
 ### Core Domains & Architecture
