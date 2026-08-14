@@ -205,21 +205,49 @@
 
 ---
 
-### Tech Stack & Tooling
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,pytorch,huggingface,unity,unreal,spring,git,linux,vscode&perline=6&theme=dark" alt="Core Tech Stack" />
+<table border="0" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
+  <!-- Row 1: Languages & Real-Time Engines -->
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px; border-right: 1px solid #21262d; border-bottom: 1px solid #21262d;">
+      <p align="left" style="margin: 0 0 8px 0;"><b>CORE LANGUAGES</b></p>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,cpp&theme=dark" alt="Languages" />
+    </td>
+    <td width="50%" valign="top" style="padding: 12px; border-bottom: 1px solid #21262d;">
+      <p align="left" style="margin: 0 0 8px 0;"><b>3D, ENGINES & GRAPHICS</b></p>
+      <img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" alt="Engines" />
+    </td>
+  </tr>
 
-  <br /><br />
+  <!-- Row 2: AI / ML & Frameworks -->
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px; border-right: 1px solid #21262d; border-bottom: 1px solid #21262d;">
+      <p align="left" style="margin: 0 0 8px 0;"><b>AI, LLMS & DATA</b></p>
+      <img src="https://img.shields.io/badge/PyTorch-013243?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+    <td width="50%" valign="top" style="padding: 12px; border-bottom: 1px solid #21262d;">
+      <p align="left" style="margin: 0 0 8px 0;"><b>INDUSTRIAL IOT & CAD</b></p>
+      <img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
+      <img src="https://img.shields.io/badge/Industrial_IoT-008080?style=flat-square&logo=internetofthings&logoColor=white" alt="IoT" />
+      <img src="https://img.shields.io/badge/Edge_Computing-24292e?style=flat-square&logo=raspberrypi&logoColor=white" alt="Edge" />
+    </td>
+  </tr>
 
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
-  <img src="https://img.shields.io/badge/Industrial_IoT-008080?style=flat-square&logo=internetofthings&logoColor=white" alt="Industrial IoT" />
+  <!-- Row 3: Systems, Backend & Tools -->
+  <tr>
+    <td colspan="2" valign="top" style="padding: 12px;">
+      <p align="left" style="margin: 0 0 8px 0;"><b>BACKEND, DEVOPS & SYSTEMS</b></p>
+      <img src="https://skillicons.dev/icons?i=spring,git,github,linux,docker,vscode&theme=dark" alt="DevOps and Tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -242,7 +270,7 @@
 
 ---
 
-### 📊 Activity & Telemetry
+### 📊 Activity & Telemetry Stats
 
 <div align="center">
   <!-- GitHub Overall Stats -->
@@ -251,10 +279,8 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hrutu34&layout=compact&theme=tokyonight&hide_border=true" height="165" width="380" alt="Top Languages" />
 </div>
 
-<br />
-
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrutu34&theme=black-ice" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrutu34&theme=black-ice" width="760" alt="GitHub Streak" />
   </p>
 </div>
