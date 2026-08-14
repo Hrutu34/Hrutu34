@@ -28,26 +28,110 @@
 
 ---
 
-### Orders & Honours of Technical Distinction
+### Badges of Honour
 
 <div align="center">
 
-| SYS-INTEL CROSS | NEURAL SYNTHESIS | COMMAND ARCHITECTURE | REAL-TIME 3D |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/CITATION-CLASS_I-D4AF37?style=flat-square" alt="Class I" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_I-702963?style=flat-square" alt="Class I" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_I-1E3F66?style=flat-square" alt="Class I" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_I-8B0000?style=flat-square" alt="Class I" /> |
-| <a href="https://www.credly.com/badges/737803ab-6d8a-489c-ab2b-1c35a202f5e4/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="80" height="80" alt="Order 1" /></a> | <a href="https://www.credly.com/badges/c4970de8-25ef-450b-a15d-094f2b2923f1/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" width="80" height="80" alt="Order 2" /></a> | <a href="https://www.credly.com/badges/bc67fa73-8cf0-4826-9231-ec382147c01b/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob" width="80" height="80" alt="Order 3" /></a> | <a href="https://www.credly.com/badges/e3c94b29-05df-495a-9816-1d8b7d6e9d01/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/18687a40-458e-44fc-b539-db34d92de0d4/blob" width="80" height="80" alt="Order 4" /></a> |
-| **IoT Telemetry**<br><sub>Hardware Integration</sub> | **Neural Order**<br><sub>Machine Intelligence</sub> | **Distributed Systems**<br><sub>Enterprise Architecture</sub> | **Graphics Vanguard**<br><sub>Simulation Engines</sub> |
+<table border="0">
+  <!-- Google AI Professional Suite Banner -->
+  <thead>
+    <tr>
+      <th colspan="7" align="center" style="background-color: #1a1a1a; padding: 10px;">
+        <a href="https://www.coursera.org/professional-certificates/google-ai?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_google-ai_google_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_in_all_m_hyb_26-02_desktop&campaignid=23575536696&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6676723712&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=23585571568&gbraid=0AAAAADdKX6ZJGbnunlnFttmoMhcjoNpWh&gclid=EAIaIQobChMIl46C_-iglgMV76hmAh3OwzpUEAAYASAAEgLnOvD_BwE">
+          <img src="https://img.shields.io/badge/Google-AI_Professional_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Suite" height="24" />
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Module Milestone Ribbons -->
+    <tr align="center">
+      <td><img src="https://img.shields.io/badge/COURSE-01-4285F4?style=flat-square" alt="C1" /></td>
+      <td><img src="https://img.shields.io/badge/COUSRE-02-EA4335?style=flat-square" alt="C2" /></td>
+      <td><img src="https://img.shields.io/badge/COURSE-03-FBBC05?style=flat-square" alt="C3" /></td>
+      <td><img src="https://img.shields.io/badge/COURSE-04-34A853?style=flat-square" alt="C4" /></td>
+      <td><img src="https://img.shields.io/badge/COURSE-05-8A2BE2?style=flat-square" alt="C5" /></td>
+      <td><img src="https://img.shields.io/badge/COURSE-06-00B4D8?style=flat-square" alt="C6" /></td>
+      <td><img src="https://img.shields.io/badge/COURSE-07-FF6B00?style=flat-square" alt="C7" /></td>
+    </tr>
+    <!-- Credly Badge Medals -->
+    <tr align="center">
+      <td>
+        <a href="https://www.credly.com/badges/737803ab-6d8a-489c-ab2b-1c35a202f5e4/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="75" height="75" alt="AI Fundamentals" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/c4970de8-25ef-450b-a15d-094f2b2923f1/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" width="75" height="75" alt="Brainstorming & Planning" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/bc67fa73-8cf0-4826-9231-ec382147c01b/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/2f5411ce-c54c-4ddb-83ec-bdd3b28dd2a4/blob" width="75" height="75" alt="Research & Insights" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/e3c94b29-05df-495a-9816-1d8b7d6e9d01/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/18687a40-458e-44fc-b539-db34d92de0d4/blob" width="75" height="75" alt="Writing & Communication" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/d36d09bb-c86c-418a-8ce2-58883e20cdb9/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/14f51379-d8b0-49ea-b1d0-f97039ff27b8/blob" width="75" height="75" alt="Content Creation" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/e8b8a7cd-b719-452b-b09b-e569288f3c1d/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/34ac978e-748e-4e7e-9227-34e0746716c8/blob" width="75" height="75" alt="Data Analysis" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/82c6d507-eacc-4bf2-9430-1484cdb720e5/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/25770df5-6488-4ce1-b4a4-60378a51d739/blob" width="75" height="75" alt="App Building" />
+        </a>
+      </td>
+    </tr>
+    <!-- Titles -->
+    <tr align="center" valign="top">
+      <td><b>AI Fundamentals</b></td>
+      <td><b>Brainstorming & Planning</b></td>
+      <td><b>Research & Insights</b></td>
+      <td><b>Writing & Communication</b></td>
+      <td><b>Content Creation</b></td>
+      <td><b>Data Analysis</b></td>
+      <td><b>App Building</b></td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
-| PARAMETRIC DESIGN | APPLIED SENSORS | RESEARCH MERIT | PROTOCOL CITATION |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/CITATION-CLASS_II-2A52BE?style=flat-square" alt="Class II" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_II-00563B?style=flat-square" alt="Class II" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_II-CC5500?style=flat-square" alt="Class II" /> | <img src="https://img.shields.io/badge/CITATION-CLASS_II-008080?style=flat-square" alt="Class II" /> |
-| <a href="https://www.credly.com/badges/d36d09bb-c86c-418a-8ce2-58883e20cdb9/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/14f51379-d8b0-49ea-b1d0-f97039ff27b8/blob" width="80" height="80" alt="Order 5" /></a> | <a href="https://www.credly.com/badges/e8b8a7cd-b719-452b-b09b-e569288f3c1d/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/34ac978e-748e-4e7e-9227-34e0746716c8/blob" width="80" height="80" alt="Order 6" /></a> | <a href="https://www.credly.com/badges/82c6d507-eacc-4bf2-9430-1484cdb720e5/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/25770df5-6488-4ce1-b4a4-60378a51d739/blob" width="80" height="80" alt="Order 7" /></a> | <a href="https://www.credly.com/badges/eef4f5db-581a-47f2-8cf1-6c65a37e2296/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="80" height="80" alt="Order 8" /></a> |
-| **Autodesk Cadre**<br><sub>Precision CAD/CAM</sub> | **Edge Devices**<br><sub>Embedded Telemetry</sub> | **Foundational AI**<br><sub>Google Intelligence</sub> | **Network Systems**<br><sub>Industrial IoT</sub> |
+<!-- Cisco Credential -->
+<table border="0">
+  <thead>
+    <tr>
+      <th align="center" style="background-color: #1a1a1a; padding: 6px 40px;">
+        <a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">
+          <img src="https://img.shields.io/badge/CISCO-NETWORKING_ACADEMY-008080?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" height="22" />
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td style="padding: 10px 40px;">
+        <a href="https://www.credly.com/badges/eef4f5db-581a-47f2-8cf1-6c65a37e2296/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="80" height="80" alt="Introduction to IoT" />
+        </a>
+        <br />
+        <b>Introduction to IoT</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
-
 ---
 
 ### Core Domains & Architecture
