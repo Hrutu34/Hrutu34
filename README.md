@@ -34,7 +34,7 @@
 
 <!-- High-Contrast Badges of Honour Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header&text=BADGES%20OF%20HONOUR&fontSize=35&fontAlign=50&fontColor=D97706" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header&text=BADGES%20OF%20HONOUR&fontSize=35&fontAlign=50&fontColor=94A3B8" width="100%" />
 </div>
 
 <div align="center">
