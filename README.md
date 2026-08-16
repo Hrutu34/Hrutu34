@@ -279,6 +279,7 @@
 
   | Program / Course | Issuing Institution | Verification |
   | :--- | :--- | :---: |
+  | **AI Professional Certification** | Google | [Verify ↗](https://coursera.org/share/181096c05cd6d481447de3bc8f46b55b) |
   | **An Introduction to Programming Internet of Things (IoT)** | UC Irvine | [Verify ↗](https://coursera.org/share/e181e675318a65eab4021bfba275eeb5) |
   | **AutoDesk CAD/CAM/CAE for Mechanical Engineering** | Autodesk | [Verify ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/UFDHA79RYLX5) |
   | **AI for Everyone** | DeepLearning.AI | [Verify ↗](https://coursera.org/share/a479fe6baf442b82a7c818acf44db737) |
