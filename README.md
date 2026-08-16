@@ -98,12 +98,12 @@
     <tr align="center">
       <td>
         <a href="https://www.credly.com/badges/737803ab-6d8a-489c-ab2b-1c35a202f5e4/public_url" target="_blank">
-          <img src="https://images.credly.com/size/110x110/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" width="75" height="75" alt="AI Fundamentals" />
+          <img src="https://images.credly.com/size/110x110/images/d6521452-e64b-4f96-bc20-4758b720757b/blob" width="75" height="75" alt="AI Fundamentals" />
         </a>
       </td>
       <td>
         <a href="https://www.credly.com/badges/c4970de8-25ef-450b-a15d-094f2b2923f1/public_url" target="_blank">
-          <img src="https://images.credly.com/size/110x110/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" width="75" height="75" alt="Brainstorming & Planning" />
+          <img src="https://images.credly.com/size/110x110/images/a1bec460-6545-4b61-9dd2-e56b7d6ccf63/blob" width="75" height="75" alt="Brainstorming & Planning" />
         </a>
       </td>
       <td>
