@@ -53,42 +53,42 @@
   <tbody>
     <!-- Module Milestone Ribbons -->
     <tr align="center">
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/9e55c40ed72906e78a823de6fa27f925">
           <img src="https://img.shields.io/badge/COURSE-01-4285F4?style=flat-square" alt="C1" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/f62a2d7fce438209845c8fbce31b6b0d">
-          <img src="https://img.shields.io/badge/COUSRE-02-EA4335?style=flat-square" alt="C2" />
+          <img src="https://img.shields.io/badge/COURSE-02-EA4335?style=flat-square" alt="C2" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/c5d41f18ec4b1aff313f22b954782a31">
           <img src="https://img.shields.io/badge/COURSE-03-FBBC05?style=flat-square" alt="C3" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/ad36727cd547fc04aea0c93b7861ce01">
           <img src="https://img.shields.io/badge/COURSE-04-34A853?style=flat-square" alt="C4" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/6d678275fa69218b8c170ff83f0ba4fe">
           <img src="https://img.shields.io/badge/COURSE-05-8A2BE2?style=flat-square" alt="C5" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/1d350319f763197784dde77733a50e19">
           <img src="https://img.shields.io/badge/COURSE-06-00B4D8?style=flat-square" alt="C6" />
         </a>
       </td>
-      <td>
+      <td width="12.5%">
         <a href="https://coursera.org/share/f64b7febb3cb7022b014bc92adf15a97">
           <img src="https://img.shields.io/badge/COURSE-07-FF6B00?style=flat-square" alt="C7" />
         </a>
       </td>
-       <td>
+       <td width="12.5%">
         <a href="https://coursera.org/share/bb6f8179a4b6c5a415fb91c4d4799c93">
           <img src="https://img.shields.io/badge/COURSE-08-FF00C3?style=flat-square" alt="C8" />
         </a>
@@ -139,14 +139,14 @@
     </tr>
     <!-- Titles -->
     <tr align="center" valign="top">
-      <td><b>AI Fundamentals</b></td>
-      <td><b>Brainstorming & Planning</b></td>
-      <td><b>Research & Insights</b></td>
-      <td><b>Writing & Communication</b></td>
-      <td><b>Content Creation</b></td>
-      <td><b>Data Analysis</b></td>
-      <td><b>App Building</b></td>
-      <td><b>App Deployment</b></td>
+      <td><sub><b>AI Fundamentals</b></sub></td>
+      <td><sub><b>AI Brainstorming & Planning</b></sub></td>
+      <td><sub><b>AI for Research & Insights</b></sub></td>
+      <td><sub><b>AI for Writing & Communication</b></sub></td>
+      <td><sub><b>AI for Content Creation</b></sub></td>
+      <td><sub><b>AI for Data Analysis</b></sub></td>
+      <td><sub><b>AI for App Building</b></sub></td>
+      <td><sub><b>AI for App Deployment</b></sub></td>
     </tr>
   </tbody>
 </table>
