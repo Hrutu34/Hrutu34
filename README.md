@@ -43,7 +43,7 @@
   <!-- Google AI Professional Suite Banner -->
   <thead>
     <tr>
-      <th colspan="7" align="center" style="background-color: #1a1a1a; padding: 10px;">
+      <th colspan="8" align="center" style="background-color: #1a1a1a; padding: 10px;">
         <a href="https://www.coursera.org/professional-certificates/google-ai?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_google-ai_google_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_in_all_m_hyb_26-02_desktop&campaignid=23575536696&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6676723712&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=23585571568&gbraid=0AAAAADdKX6ZJGbnunlnFttmoMhcjoNpWh&gclid=EAIaIQobChMIl46C_-iglgMV76hmAh3OwzpUEAAYASAAEgLnOvD_BwE">
           <img src="https://img.shields.io/badge/Google-AI_Professional_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Suite" height="24" />
         </a>
@@ -88,6 +88,11 @@
           <img src="https://img.shields.io/badge/COURSE-07-FF6B00?style=flat-square" alt="C7" />
         </a>
       </td>
+       <td>
+        <a href="https://coursera.org/share/bb6f8179a4b6c5a415fb91c4d4799c93">
+          <img src="https://img.shields.io/badge/COURSE-08-FF00C3?style=flat-square" alt="C8" />
+        </a>
+      </td>
     </tr>
     <!-- Credly Badge Medals -->
     <tr align="center">
@@ -126,6 +131,11 @@
           <img src="https://images.credly.com/size/110x110/images/25770df5-6488-4ce1-b4a4-60378a51d739/blob" width="75" height="75" alt="App Building" />
         </a>
       </td>
+      <td>
+        <a href="https://www.credly.com/badges/120ecfe0-9baf-4fdc-a1c3-e04fb66fa39f/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/09b04f50-3ae9-49e2-afa9-1521ac742df3/blob" width="75" height="75" alt="App Building" />
+        </a>
+      </td>
     </tr>
     <!-- Titles -->
     <tr align="center" valign="top">
@@ -136,6 +146,7 @@
       <td><b>Content Creation</b></td>
       <td><b>Data Analysis</b></td>
       <td><b>App Building</b></td>
+      <td><b>App Deployment</b></td>
     </tr>
   </tbody>
 </table>
