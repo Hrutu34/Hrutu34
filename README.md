@@ -139,7 +139,7 @@
     </tr>
     <!-- Titles -->
     <tr align="center" valign="top">
-      <td><sub><b>AI Fundamentals</b></sub></td>
+      <td><sub><b>AI<br>Fundamentals</b></sub></td>
       <td><sub><b>AI Brainstorming & Planning</b></sub></td>
       <td><sub><b>AI for Research & Insights</b></sub></td>
       <td><sub><b>AI for Writing & Communication</b></sub></td>
