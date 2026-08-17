@@ -153,6 +153,98 @@
 
 <br />
 
+<table border="0">
+  <!-- Unity Pathways Suite Banner -->
+  <thead>
+    <tr>
+      <th colspan="1" align="center" style="background-color: #1a1a1a; padding: 10px;">
+        <a href="https://learn.unity.com/pathways">
+          <img src="https://img.shields.io/badge/Unity-Pathways-111212?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Pathways" height="24" />
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Module Milestone Ribbons -->
+    <tr align="center">
+      <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/unity-essentials">
+          <img src="https://img.shields.io/badge/PATHWAY-01-4285F4?style=flat-square" alt="P1" />
+        </a>
+      </td>
+      <!-- <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/junior-programmer">
+          <img src="https://img.shields.io/badge/PATHWAY-02-EA4335?style=flat-square" alt="P2" />
+        </a>
+      </td>
+      <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/creative-core">
+          <img src="https://img.shields.io/badge/PATHWAY-03-FBBC05?style=flat-square" alt="P3" />
+        </a>
+      </td>
+      <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/vr-development">
+          <img src="https://img.shields.io/badge/PATHWAY-04-34A853?style=flat-square" alt="P4" />
+        </a>
+      </td>
+      <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/mobile-ar-development">
+          <img src="https://img.shields.io/badge/PATHWAY-05-8A2BE2?style=flat-square" alt="P5" />
+        </a>
+      </td>
+      <td width="12.5%">
+        <a href="https://learn.unity.com/pathway/game-development">
+          <img src="https://img.shields.io/badge/PATHWAY-06-00B4D8?style=flat-square" alt="P6" />
+        </a>
+      </td> -->
+    </tr>
+    <!-- Credly Badge Medals -->
+    <tr align="center">
+      <td>
+        <a href="https://www.credly.com/badges/b42b3b8c-ee98-483a-a5c2-741b160c1dc9/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" width="75" height="75" alt="Unity Essentials" />
+        </a>
+      </td>
+      <!-- <td>
+        <a href="" target="_blank">
+          <img src="" width="75" height="75" alt="Junior Programmer" />
+        </a>
+      </td>
+      <td>
+        <a href="">
+          <img src="" width="75" height="75" alt="Creative Core" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="75" height="75" alt="VR Development" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="75" height="75" alt="Mobile AR Development" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="75" height="75" alt="Game Developemnt" />
+        </a>
+      </td> -->
+    </tr>
+    <!-- Titles -->
+    <tr align="center" valign="top">
+      <td><sub><b>Unity Essentials</b></sub></td>
+      <!-- <td><sub><b>Junior Programmer</b></sub></td>
+      <td><sub><b>Creative Core</b></sub></td>
+      <td><sub><b>VR Development</b></sub></td>
+      <td><sub><b>Mobile AR Development</b></sub></td>
+      <td><sub><b>Game Developemnt</b></sub></td> -->
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 <!-- Cisco Credential -->
 <table border="0">
   <thead>
