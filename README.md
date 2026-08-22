@@ -157,7 +157,7 @@
   <!-- Unity Pathways Suite Banner -->
   <thead>
     <tr>
-      <th colspan="1" align="center" style="background-color: #1a1a1a; padding: 10px;">
+      <th colspan="2" align="center" style="background-color: #1a1a1a; padding: 10px;">
         <a href="https://learn.unity.com/pathways">
           <img src="https://img.shields.io/badge/Unity-Pathways-111212?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Pathways" height="24" />
         </a>
@@ -172,12 +172,12 @@
           <img src="https://img.shields.io/badge/PATHWAY-01-4285F4?style=flat-square" alt="P1" />
         </a>
       </td>
-      <!-- <td width="12.5%">
+      <td width="12.5%">
         <a href="https://learn.unity.com/pathway/junior-programmer">
           <img src="https://img.shields.io/badge/PATHWAY-02-EA4335?style=flat-square" alt="P2" />
         </a>
       </td>
-      <td width="12.5%">
+      <!-- <td width="12.5%">
         <a href="https://learn.unity.com/pathway/creative-core">
           <img src="https://img.shields.io/badge/PATHWAY-03-FBBC05?style=flat-square" alt="P3" />
         </a>
@@ -205,12 +205,12 @@
           <img src="https://images.credly.com/size/110x110/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" width="75" height="75" alt="Unity Essentials" />
         </a>
       </td>
-      <!-- <td>
-        <a href="" target="_blank">
-          <img src="" width="75" height="75" alt="Junior Programmer" />
+      <td>
+        <a href="https://www.credly.com/badges/a3524de9-2b6b-4866-b141-78e1838fd089/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" width="75" height="75" alt="Junior Programmer" />
         </a>
       </td>
-      <td>
+      <!-- <td>
         <a href="">
           <img src="" width="75" height="75" alt="Creative Core" />
         </a>
@@ -234,8 +234,8 @@
     <!-- Titles -->
     <tr align="center" valign="top">
       <td><sub><b>Unity Essentials</b></sub></td>
-      <!-- <td><sub><b>Junior Programmer</b></sub></td>
-      <td><sub><b>Creative Core</b></sub></td>
+      <td><sub><b>Junior Programmer</b></sub></td>
+      <!-- <td><sub><b>Creative Core</b></sub></td>
       <td><sub><b>VR Development</b></sub></td>
       <td><sub><b>Mobile AR Development</b></sub></td>
       <td><sub><b>Game Developemnt</b></sub></td> -->
